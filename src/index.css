@@ -12,7 +12,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url("back.jpg");
+  background-image: url("/Chat-bot/back.jpg");
   backdrop-filter: blur(1.5px);
   
 
